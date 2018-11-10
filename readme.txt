@@ -1,5 +1,4 @@
-Name: Tashreque Mohammed Haq
-ID: 1411834042
+This is the KNN algorithm which uses euclidean distance to choose attributes. The model was trained with and tested on the same satellite, yeast and pendigits data as the binary decision tree.
 
 Programming language used: Java
 
